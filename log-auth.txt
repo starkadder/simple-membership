@@ -1,0 +1,8 @@
+[06/16/2018 4:50 AM] - SUCCESS: Authentication request - Username: debug
+[06/16/2018 4:50 AM] - SUCCESS: Authentication request - Username: admin 
+[06/16/2018 4:54 AM] - SUCCESS: Authentication request - Username: starkadder
+[06/16/2018 4:54 AM] - SUCCESS: Authentication successful for username: starkadder. Executing swpm_login action hook.
+[06/16/2018 4:54 AM] - SUCCESS: Trying wp_signon() with username: starkadder
+[06/16/2018 4:54 AM] - SUCCESS: wp_authenticate action. User with username: starkadderis already logged in.
+[06/16/2018 4:54 AM] - FAILURE: wp_signon() failed for the corresponding WP user account.
+[06/16/2018 4:54 AM] - SUCCESS: Triggering swpm_after_login hook.

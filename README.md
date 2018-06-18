@@ -1,0 +1,1 @@
+## This is a fork of the Simple Membership plugin for WordPress with registration fields for a community band.
